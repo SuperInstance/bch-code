@@ -1,6 +1,9 @@
 [package]
 name = "bch-code"
 version = "0.1.0"
-edition = "2024"
+description = "A Rust library for Bch Code"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/bch-code"
+edition = "2021"
 
 [dependencies]
